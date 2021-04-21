@@ -1,0 +1,249 @@
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\Project\Examination system\Examination system\bin\Debug\Examination system.exe.config
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\Project\Examination system\Examination system\bin\Debug\Examination system.exe
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\Project\Examination system\Examination system\bin\Debug\Examination system.pdb
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\Project\Examination system\Examination system\obj\Debug\Examination_system.LoginForm.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\Project\Examination system\Examination system\obj\Debug\Examination_system.Properties.Resources.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\Project\Examination system\Examination system\obj\Debug\Examination system.csproj.GenerateResource.cache
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\Project\Examination system\Examination system\obj\Debug\Examination system.csproj.CoreCompileInputs.cache
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\Project\Examination system\Examination system\obj\Debug\Examination system.exe
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\Project\Examination system\Examination system\obj\Debug\Examination system.pdb
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\Project\Examination system\Examination system\obj\Debug\Examination_system.ReadyToExam.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\Project\Examination system\Examination system\obj\Debug\Examination_system.Exam.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\Project\Examination system\Examination system\obj\Debug\Examination_system.Result.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\Project\Examination system\Examination system\obj\Debug\Examination system.csprojAssemblyReference.cache
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\Project\Examination system\Examination system\obj\Debug\Examination_system.ManageExam.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\Examination system.csprojAssemblyReference.cache
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.CrsGrade.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.crsStds.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\Examination_system.Exam.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.FindStd.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\Examination_system.LoginForm.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.InsDept.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.Manage.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\Examination_system.ManageExam.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.MC.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.MngCrs.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.MngDept.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.MngStd.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.NewCrs.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.NewDept.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.NewQue.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.NewStd.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\Examination_system.Properties.Resources.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\Examination_system.ReadyToExam.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\Examination_system.Result.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.Std_sDept.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.TF.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.totStdCrs.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\DBProject.totStdGrade.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\Examination system.csproj.GenerateResource.cache
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\Examination system.csproj.CoreCompileInputs.cache
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\Examination system.exe
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\obj\Debug\Examination system.pdb
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\bin\Debug\Examination system.exe.config
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\bin\Debug\Examination system.exe
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProject\Examination system\Examination system\bin\Debug\Examination system.pdb
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\bin\Debug\Examination system.exe.config
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\bin\Debug\Examination system.exe
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\bin\Debug\Examination system.pdb
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\Examination system.csprojAssemblyReference.cache
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.CrsGrade.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.crsStds.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\Examination_system.Exam.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.FindStd.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\Examination_system.LoginForm.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.InsDept.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.Manage.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\Examination_system.ManageExam.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.MC.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.MngCrs.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.MngDept.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.MngStd.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.NewCrs.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.NewDept.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.NewQue.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.NewStd.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\Examination_system.Properties.Resources.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\Examination_system.ReadyToExam.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\Examination_system.Result.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.Std_sDept.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.TF.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.totStdCrs.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\DBProject.totStdGrade.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\Examination system.csproj.GenerateResource.cache
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\Examination system.csproj.CoreCompileInputs.cache
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\Examination system.exe
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\Examination system.pdb
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\Examination_system.MngIns.resources
+E:\coullege stuff\ITI\M5\W20\DBPro\Examination system\Examination system\obj\Debug\Examination_system.Reports.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\Examination system.exe.config
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\Examination system.exe
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\Examination system.pdb
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\EnvDTE.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\stdole.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\Microsoft.MSXML.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\Examination system.csprojAssemblyReference.cache
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.CrsGrade.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.crsStds.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\Examination_system.Exam.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.FindStd.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\Examination_system.LoginForm.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.InsDept.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.Manage.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\Examination_system.ManageExam.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.MC.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.MngCrs.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.MngDept.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\Examination_system.MngIns.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.MngStd.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.NewCrs.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.NewDept.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.NewQue.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.NewStd.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\Examination_system.Properties.Resources.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\Examination_system.ReadyToExam.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\Examination_system.Reports.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\Examination_system.Result.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.Std_sDept.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.TF.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.totStdCrs.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\DBProject.totStdGrade.resources
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\Examination system.csproj.GenerateResource.cache
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\Examination system.csproj.CoreCompileInputs.cache
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\Examination system.csproj.CopyComplete
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\Examination system.exe
+E:\MY Works\Courses\ITI 9Month SD Intake 41\database\FinalProjectDBExam2021\Examination system\Examination system\obj\Debug\Examination system.pdb
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\Examination system.exe.config
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\Examination system.exe
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\Examination system.pdb
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\EnvDTE.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\stdole.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\Microsoft.MSXML.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\Examination system.csprojAssemblyReference.cache
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\Examination_system.Exam.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\Examination_system.LoginForm.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\DBProject.Manage.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\Examination_system.ManageExam.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\DBProject.MngCrs.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\DBProject.MngDept.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\Examination_system.MngIns.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\DBProject.MngStd.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\Examination_system.Properties.Resources.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\Examination_system.ReadyToExam.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\Examination_system.Reports.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\Examination_system.Result.resources
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\Examination system.csproj.GenerateResource.cache
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\Examination system.csproj.CoreCompileInputs.cache
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\Examination system.csproj.CopyComplete
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\Examination system.exe
+E:\coullege stuff\ITI\M5\W20\DB Project\Project DB\Examination system\Examination system\obj\Debug\Examination system.pdb
